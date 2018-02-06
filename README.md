@@ -1,9 +1,36 @@
-### About me
 
-My research interests include analog and mixed signal circuit design. 
-I moved to Germany late 2017 and am currently seeking job opportunities in the field of mixed signal circuit design.
-I received my PhD in Electrical and Computer Engineering from Cornell University (New York, USA) and worked in Intel Corporation till 2017 (after completion of my PhD in 2014). 
+You can use the [editor on GitHub](https://github.com/ishitamukhopadhyay/ishitamukhopadhyay.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-For my PhD thesis, I have worked on variation tolerant calibration circuits for high speed I/O, concentrating specifically on DACs. During the course of my PhD, I've had experience in designing various RF circuits like VCOs, LNAs, op-amps, mixers, PLLs and have also had hands-on experience in using various lab equipment and wire-bonding. For my Master's, I worked on error correction for VLSI logic synthesis to improve reliability of nanoscale digital circuits.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-After my PhD, I joined Intel Corporation as an Analog product development engineer. I worked on analog tests to catch manufacturing defects in high speed serial I/O in chipset products to ensure the quality of products for customers. I developed new techniques to enable wider characterization in high volume manufacturing (HVM) environment to decrease the turnaround time from first silicon to final product along with high quality product delivery to customers.
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishitamukhopadhyay/ishitamukhopadhyay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
