@@ -1,11 +1,6 @@
----
-layout: default
-title: Ishita Mukhopadhyay
----
-
 ### About me
 
-My research interests include analog and mixed signal circuit design. 
+I My research interests include analog and mixed signal circuit design. 
 I moved to Germany late 2017 and am currently seeking job opportunities in the field of mixed signal circuit design.
 I received my PhD in Electrical and Computer Engineering from Cornell University (New York, USA) and worked in Intel Corporation till 2017 (after completion of my PhD in 2014). 
 
