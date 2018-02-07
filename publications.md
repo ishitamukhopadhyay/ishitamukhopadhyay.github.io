@@ -1,4 +1,4 @@
-# Publications:
+# Publications
 
 ### Journal publications:
 1. DAC
