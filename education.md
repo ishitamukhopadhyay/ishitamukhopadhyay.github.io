@@ -1,3 +1,5 @@
+# Education
+
 ### PhD
 I received my PhD in 2014 in electrical and computer engineering (ECE) from Cornell University (Ithaca, New York, USA).
 
