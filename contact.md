@@ -1,7 +1,3 @@
----
-layout: default
-title: Ishita Mukhopadhyay
----
-### Contact
+###Contact
 - Email: imukhopa@gmail.com
  
