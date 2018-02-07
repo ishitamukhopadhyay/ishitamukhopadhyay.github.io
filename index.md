@@ -8,4 +8,4 @@ For my PhD thesis, I have worked on variation tolerant calibration circuits for 
 
 After my PhD, I joined Intel Corporation as an Analog product development engineer. I worked on analog tests to catch manufacturing defects in high speed serial I/O in chipset products to ensure the quality of products for customers. I developed new techniques to enable wider characterization in high volume manufacturing (HVM) environment to decrease the turnaround time from first silicon to final product along with high quality product delivery to customers.
 
-[Contact](https://ishitamukhopadhyay.github.io/contact.html)
+[Education](https://ishitamukhopadhyay.github.io/education.html)         [Contact](https://ishitamukhopadhyay.github.io/contact.html)
