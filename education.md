@@ -6,3 +6,5 @@ I received my Master of Technology degree in 2009 in information and communicati
 
 ### Bachelor's
 I received my Master of Technology degree in 2008 in electrical engineering (EE) from Indian Institute of Technology, Delhi (India).
+
+[Home](https://ishitamukhopadhyay.github.io/index.html) [Work Experience](https://ishitamukhopadhyay.github.io/workexperience.html) [Publications](https://ishitamukhopadhyay.github.io/publications.html) [Interests](https://ishitamukhopadhyay.github.io/interests.html) [Contact](https://ishitamukhopadhyay.github.io/contact.html)
