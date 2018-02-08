@@ -1,9 +1,12 @@
 # Work Experience
 
 ### Analog product development engineer - Intel Corporation
+I joined Intel Corporation (Folsom, California, USA) as an _analog product development engineer_ after my PhD in 2014. I developed **analog test content to catch manufacturing defects in high speed serial I/O** in chipset products to ensure the quality of products for customers. I utilized my analog circuit knowledge to debug issues and increase testing capabilities for error detection. I also worked on developing new techniques to enable wider characterization in _high volume manufacturing (HVM)_ environment to decrease the turnaround time from first silicon to final product along with high quality product delivery to customers.
 
 ### Graduate technical intern - Intel Corporation
+During my PhD, I worked at Intel Corporation (Santa Clara, California, USA) as a graduate technical intern for 6 months. My work was on evaluation of **test quality in high speed serial I/O** HVM in presence of unexpected parametric shifts/variations. The work resulted in significant reduction in the number of parameters that need to be considered in the regime of unexpected **process variation** by employing sensitivity-like approach leading to significant reduction in required time and space. Using the reduced parametric space, I evaluated some of the existing _high volume manufacturing (HVM)_ tests used in high speed serial I/O in SoC products in terms of their ability to detect circuit failure and came out with the respective system-level coverage.
 
-### Research intern - INRIA
+### Undergraduate research intern - INRIA
+During my undergradute studies, I worked at INRIA (Rennes, France) as an undergraduate research intern for 3 months. At INRIA, I worked on comparison of different **optimization algorithms** for QoS negotiation. Through my work, I determined that distributed algorithms are preferred to optimize the cost to satisfy a request in a network but performance of existing distributed algorithms were of no match to the centralized algorithms. Hence, I proposed an improved distributed Forward-Backward algorithm whose order came out to be same as that of the centralized algorithms and it had more than 50% improvement over the existing distributed algorithms as number of existing chains increased.
 
 [Home](https://ishitamukhopadhyay.github.io/index.html) [Education](https://ishitamukhopadhyay.github.io/education.html) [Work Experience](https://ishitamukhopadhyay.github.io/workexperience.html) [Publications](https://ishitamukhopadhyay.github.io/publications.html) [Interests](https://ishitamukhopadhyay.github.io/interests.html) [CV](https://ishitamukhopadhyay.github.io/cv.html) [Contact](https://ishitamukhopadhyay.github.io/contact.html)
