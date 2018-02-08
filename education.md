@@ -1,12 +1,19 @@
 # Education
 
-### PhD
+### Ph.D.
 I received my PhD in 2014 in electrical and computer engineering (ECE) from Cornell University (Ithaca, New York, USA).
+I investigated techniques to improve the accuracy of thermometer coded DAC, whose resolution, which is severely affected under process, voltage and temperature (PVT) variations, is critical for the calibration purposes of many circuit blocks in high speed I/O. For my PhD work, I proposed a dual-calibration technique which achieves an improvement of 36% in differential non-linearity (DNL) and 50% in integral non-linearity (INL) across several chip measurements. I developed mathematical models of the proposed technique enabling the determination of overall yield.
+I also worked on Modeling high speed I/O links and observed the effect of non-linearity of DACs on different circuit blocks like phase interpolator and how overall performance is affected in terms of bit error rate (BER).
+During the course of my PhD, I've had experience in designing various RF circuits like VCOs, LNAs, op-amps, mixers, PLLs and have also had hands-on experience in using various lab equipment and wire-bonding.
 
-### Master's
+### M.S.
+I received my Master of Science degree in 2013 in electrical and computer engineering (ECE) from Cornell University (Ithaca, New York, USA).
+
+### M.Tech.
 I received my Master of Technology degree in 2009 in information and communication technology from Indian Institute of Technology, Delhi (India).
+I worked on error correction for VLSI logic synthesis to improve reliability of nanoscale digital circuits. I investigated communications techniques for compensating the detrimental effects of reduced noise margin and the inherent unreliability of nanoscale transistors. Based on my findings, I proposed a new error correction scheme using learning techniques like Support Vector Machines (SVM) for VLSI logic synthesis when working with lower supply voltage and increased frequency of operation.
 
-### Bachelor's
-I received my Master of Technology degree in 2008 in electrical engineering (EE) from Indian Institute of Technology, Delhi (India).
+### B.Tech.
+I received my Bachelor of Technology degree in 2008 in electrical engineering (EE) from Indian Institute of Technology, Delhi (India).
 
 [Home](https://ishitamukhopadhyay.github.io/index.html) [Education](https://ishitamukhopadhyay.github.io/education.html) [Work Experience](https://ishitamukhopadhyay.github.io/workexperience.html) [Publications](https://ishitamukhopadhyay.github.io/publications.html) [Interests](https://ishitamukhopadhyay.github.io/interests.html) [CV](https://ishitamukhopadhyay.github.io/cv.html) [Contact](https://ishitamukhopadhyay.github.io/contact.html)
