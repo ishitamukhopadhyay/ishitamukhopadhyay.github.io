@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Ishita Mukhopadhyay
 description: My website
-topnav:
-  Education: "https://ishitamukhopadhyay.github.io/education.html"
+navbar-links:
+  Education: "https://ishitamukhopadhyay.github.io/education.html/"
