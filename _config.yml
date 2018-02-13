@@ -3,3 +3,7 @@ title: Ishita Mukhopadhya
 navbar-links:
   About Me: "https://ishitamukhopadhyay.github.io/index.html"
   Education: "https://ishitamukhopadhyay.github.io/education.html"
+author:
+  name: Some Person
+plugins:
+  - jekyll-paginate
